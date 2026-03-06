@@ -10,7 +10,7 @@
 
 **Course**: Data Collection & Management Lab (094290) | **Institution**: Technion - Israel Institute of Technology
 
-[🎥 Demo Video](https://drive.google.com/file/d/1y6IKTqMy8AR-8AHGH27r8CV67UQpp1cd/view?usp=sharing) | [📊 GitHub Repository](https://github.com/Dekel-E/DSLab_project) | [▶️ Setup Tutorial](https://drive.google.com/file/d/1WvjKvSmrzrPztH8mYc3_PYvDywPvBEh9/view?usp=sharing)
+[🎥 Demo Video](https://drive.google.com/file/d/1y6IKTqMy8AR-8AHGH27r8CV67UQpp1cd/view?usp=sharing) | [📊 GitHub Repository](https://github.com/amit22882036-ship-it/checkin-to-reality-core.git) | [▶️ Setup Tutorial](https://drive.google.com/file/d/1WvjKvSmrzrPztH8mYc3_PYvDywPvBEh9/view?usp=sharing)
 
 </div>
 
