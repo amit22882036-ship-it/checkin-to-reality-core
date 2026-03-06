@@ -847,8 +847,6 @@ Provides <b>actionable feedback</b> to bridge the gap between expectation and de
 
 **Made with ❤️ for Data Science**
 
-*Technion - Israel Institute of Technology • 2026*
-
 </div>
 
 
