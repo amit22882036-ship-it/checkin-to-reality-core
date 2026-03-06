@@ -839,7 +839,7 @@ Provides <b>actionable feedback</b> to bridge the gap between expectation and de
 
 ### 🔗 Quick Links
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dekel-E/DSLab_project)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/amit22882036-ship-it/checkin-to-reality-core.git)
 [![Demo](https://img.shields.io/badge/Demo-Video-FF0000?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1y6IKTqMy8AR-8AHGH27r8CV67UQpp1cd/view)
 [![Tutorial](https://img.shields.io/badge/Tutorial-Setup-4285F4?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1WvjKvSmrzrPztH8mYc3_PYvDywPvBEh9/view)
 
