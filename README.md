@@ -833,18 +833,8 @@ Provides <b>actionable feedback</b> to bridge the gap between expectation and de
 
 </div>
 
----
-
 <div align="center">
-
-## 👥 Project Team
-
-| Name | Student ID |
-|------|-----------|
-| **Amit Gertner** | 209399336 |
-| **Dekel Elmaliah** | 205852486 |
-| **Shoval Zvieli** | 31494779 |
-
+  
 ---
 
 ### 🔗 Quick Links
